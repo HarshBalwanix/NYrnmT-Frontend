@@ -4,7 +4,7 @@ Welcome to NYrnmT, a frontend project dedicated to environmental conservation an
 
 ## Overview
 
-NYrnmT is a web-based initiative designed to inspire and promote eco-friendly practices. The project emphasizes the importance of environmental preservation through various themes, including wildlife conservation, clean air initiatives, waste management, and more.
+NYrnmT is a frontend web-based initiative designed to inspire and promote eco-friendly practices. The project emphasizes the importance of environmental preservation through various themes, including wildlife conservation, clean air initiatives, waste management, and more.
 
 ## Deployed Website
 
