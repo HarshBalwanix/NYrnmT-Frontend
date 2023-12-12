@@ -1,6 +1,6 @@
 # NYrnmT - Environment Saving Project
 
-Welcome to NYrnmT, a project dedicated to environmental conservation and awareness.
+Welcome to NYrnmT, a frontend project dedicated to environmental conservation and awareness.
 
 ## Overview
 
@@ -37,5 +37,3 @@ Explore the [NYrnmT Website](https://harshbalwanix.github.io/NYrnmT-Frontend/) t
 4. Create a pull request with a detailed description of your contributions.
 
 Let's work together to make a positive impact on the environment!
-
-
