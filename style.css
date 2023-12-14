@@ -131,3 +131,49 @@ body {
   font-weight: 400;
   color: #5e5e5e;
 }
+
+#motive {
+  margin-top: 7vw;
+  padding: 3vw 10vw;
+  display: flex;
+  justify-content: space-between;
+}
+#motive p {
+  line-height: 1.7;
+  letter-spacing: -0.12vw;
+  position: relative;
+  right: 0;
+  width: 85%;
+  text-align: right;
+  font-size: 2.1vw;
+}
+#motive span {
+  display: inline-block;
+  margin: 0 10px;
+  border-radius: 100px;
+  background-color: red;
+  margin: 0 13px;
+  margin-bottom: -12.5px;
+}
+
+#spanone {
+  width: 80px;
+  height: 50px;
+  background-image: url();
+  background-size: cover;
+  background-position: 0% 48%;
+}
+#spantwo {
+  width: 130px;
+  height: 60px;
+  background-image: url();
+  background-size: cover;
+  background-position: 0% 48%;
+}
+#spanthree {
+  width: 80px;
+  height: 50px;
+  background-image: url();
+  background-size: cover;
+  background-position: 0% 48%;
+}
