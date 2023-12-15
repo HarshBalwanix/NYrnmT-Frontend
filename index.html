@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Enviornment</title>
+    <link rel="stylesheet" href="https://unpkg.com/sheryjs/dist/Shery.css" />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.css"
@@ -19,17 +20,17 @@
       <div id="home"></div>
       <div id="nav">
         <div id="navleft">
-          <a href="#">Home</a>
-          <a href="#">Pricing </a>
-          <a href="#">Products</a>
+          <a href="#" class="nlink">Home</a>
+          <a href="#" class="nlink">Pricing </a>
+          <a href="#" class="nlink">Products</a>
         </div>
-        <a href="#" id="centeratag">Enviornment</a>
+        <a href="#" id="centeratag" class="nlink">Enviornment</a>
         <div id="navright">
-          <a href="#">Our Journey</a>
+          <a href="#" class="nlink">Our Journey</a>
         </div>
       </div>
       <div id="hero">
-        <div id="sustain">
+        <div id="sustain" class="anim2">
           <h5>01.</h5>
           <h2>Sustainability</h2>
           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
@@ -40,7 +41,7 @@
             />
           </div>
         </div>
-        <div id="ephemeral">
+        <div id="ephemeral" class="anim2">
           <div id="headings">
             <h1>Save Our</h1>
             <h1>Enviornment</h1>
@@ -57,7 +58,7 @@
           </div>
         </div>
 
-        <div id="visit">
+        <div id="visit" class="anim2">
           <div id="circlev">
             <i class="ri-arrow-down-line"></i>
           </div>
@@ -125,6 +126,20 @@
         </div>
       </div>
     </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.155.0/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/automat/controlkit.js@master/bin/controlKit.min.js"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/gsap.min.js"
+      integrity="sha512-EZI2cBcGPnmR89wTgVnN3602Yyi7muWo8y1B3a8WmIv1J9tYG+udH4LvmYjLiGp37yHB7FfaPBo8ly178m9g4Q=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/sheryjs/dist/Shery.js"
+    ></script>
     <script src="https://cdn.jsdelivr.net/npm/locomotive-scroll@3.5.4/dist/locomotive-scroll.min.js"></script>
     <script type="module" src="script.js"></script>
   </body>
