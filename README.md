@@ -29,6 +29,14 @@ Explore the [NYrnmT Website](https://harshbalwanix.github.io/NYrnmT-Frontend/) t
 
 4. **Interactive Video**: Engage with our future-focused video by hovering over the "Join the movement" button.
 
+## Demo Video
+
+
+https://github.com/HarshBalwanix/NYrnmT-Frontend/assets/91670912/c5fa98f4-c9eb-44c9-82eb-075678fce5ac
+
+
+
+
 ## How to Contribute
 
 1. Fork the repository.
